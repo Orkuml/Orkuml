@@ -15,7 +15,7 @@
 
 <details>
   <summary>📃 Education</summary>
-    <p align=left>📖 Information Systems, 📆 2015 - 2021, 📍 <a href="https://fametro.edu.br/" target="_blank">Fametro University Center</a> - Manaus, Brazil</p>
+    <p align=left>📖 Information Systems, 📆 2015 - 2021, 📍 <a href="https://fametro.edu.br/" target="_blank">Fametro University Center</a> - <a href="https://www.google.com/maps/place/Manaus,+AM/@-3.044653,-60.1071907,11z/data=!3m1!4b1!4m5!3m4!1s0x926c1bc8b37647b7:0x2b485c9ff765a9cc!8m2!3d-3.1190275!4d-60.0217314" target="_blank">Manaus</a>, Brazil</p>
 </details>
 <p>&nbsp;</p>
 <details>
