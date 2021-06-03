@@ -12,6 +12,12 @@
 - 🔭 I’m currently working on **DiscordBot**
 - 🌱 I’m currently learning **React**
 
+
+<details>
+  <summary>📃 Education</summary>
+    <p align=left>📖 Information Systems, 📆 2015 - 2021, 📍 Fametro University Center - Manaus, Brazil</p>
+</details>
+<p>&nbsp;</p>
 <details>
   <summary>💻 My Workspace</summary>
     <img align=left src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
