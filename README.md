@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Ranniere 👨‍💻
 ___________________________________________________________________________________________________________________________________________________________________________________
+Front End developer from Manaus, Brazil.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rannierefarias/)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/Orkuml)
