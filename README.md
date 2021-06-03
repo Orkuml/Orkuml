@@ -54,5 +54,5 @@
 
 <p>&nbsp;</p>
 
-***"O homem vangloria-se de ter imitado o vôo das aves com uma complicação técnica que elas dispensam."***
+***"Man boasts of having imitated the flight of birds with a technical complication that they do not need."***
 > Carlos Drummond de Andrade
