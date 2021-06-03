@@ -19,7 +19,7 @@
 </details>
 <p>&nbsp;</p>
 <details>
-  <summary>💻 My Workspace</summary>
+  <summary>💻 Workspace</summary>
     <img align=left src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img align=left src="https://img.shields.io/badge/CPU-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
     <img align=left src="https://img.shields.io/badge/GPU-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -29,7 +29,7 @@
 </details>
 <p>&nbsp;</p>
 <details>
-  <summary>:zap: My Github Stats</summary>
+  <summary>:zap: Github Stats</summary>
     <img float=left width="65%" src="https://github-readme-stats.vercel.app/api?username=Orkuml&show_icons=true&theme=midnight-purple&border=none" />
     <img float=left width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkuml&theme=midnight-purple&hide=hack&langs_count=10" />
 <!-- ![Git Stats](https://github-readme-stats.vercel.app/api?username=Orkuml&show_icons=true&theme=midnight-purple) ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Orkuml&theme=midnight-purple&hide=hack&langs_count=10) -->
