@@ -25,7 +25,7 @@
 <details>
   <summary>:zap: My Github Stats</summary>
     <img float=left width="65%" src="https://github-readme-stats.vercel.app/api?username=Orkuml&show_icons=true&theme=midnight-purple&border=none" />
-    <img float=left width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkuml&theme=midnight-purple&hide=hack&langs_count=10" />
+    <img float=left width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkuml&theme=midnight-purple&hide=hack&langs_count=10" />
 <!-- ![Git Stats](https://github-readme-stats.vercel.app/api?username=Orkuml&show_icons=true&theme=midnight-purple) ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Orkuml&theme=midnight-purple&hide=hack&langs_count=10) -->
 </details>
 <p>&nbsp;</p>
@@ -45,3 +45,8 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </details>
+
+<p>&nbsp;</p>
+
+***"O homem vangloria-se de ter imitado o vôo das aves com uma complicação técnica que elas dispensam."***
+> Carlos Drummond de Andrade
