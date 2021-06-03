@@ -19,7 +19,7 @@
     <img align=left src="https://img.shields.io/badge/GPU-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
     <img align=left src="https://img.shields.io/badge/RAM-32GB-ff1aff?style=for-the-badge&logo=corsair&logoColor=white" />
     <img align=left src="https://img.shields.io/badge/SSD-2TB-1a75ff?style=for-the-badge&logo=samsung&logoColor=white" />
-    <img align=left src="https://img.shields.io/badge/Screen-24''-00cc66?style=for-the-badge&logo=samsung&logoColor=white" />
+<!--     <img align=left src="https://img.shields.io/badge/Screen-24''-00cc66?style=for-the-badge&logo=samsung&logoColor=white" /> -->
 </details>
 <p>&nbsp;</p>
 <details>
