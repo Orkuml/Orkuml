@@ -1,58 +1,129 @@
-<h1 align="center">Hi 👋, I'm Ranniere</h1>
-<h3 align="center">A frontend developer from Manaus, Brazil</h3>
+<h1 align="center">⚡ Front-end Specialist</h1>
 
-[<p align=center><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rannierefarias/)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/Orkuml)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/orkumlmetal)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Orkuml)
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></p>](https://discord.com/invite/6sCnuky)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%7C+Angular+%7C+Vue;Building+scalable+and+beautiful+interfaces;Clean+architecture+%26+refined+UX" />
+</p>
 
-<p align=center> <img src="https://komarev.com/ghpvc/?username=Orkuml" /> <img src="https://img.shields.io/github/followers/Orkuml?label=Follow" /> </p>
+---
 
-- 🔭 I’m currently working on **DiscordBot**
-- 🌱 I’m currently learning **React**
+Senior Front-end Engineer with 10+ years of experience building scalable and high-performance web applications.
 
+Focused on complex dashboards, refined UX, accessibility, and clean architecture.  
+Perfectionist by nature, always aiming for maintainability and visual excellence.
 
-<details>
-  <summary>📃 Education</summary>
-    <p align=left>📖 Information Systems, 📆 2015 - 2021, 📍 <a href="https://fametro.edu.br/" target="_blank">Fametro University Center</a> - <a href="https://www.google.com/maps/place/Manaus,+AM/@-3.044653,-60.1071907,11z/data=!3m1!4b1!4m5!3m4!1s0x926c1bc8b37647b7:0x2b485c9ff765a9cc!8m2!3d-3.1190275!4d-60.0217314" target="_blank">Manaus</a>, Brazil</p>
-</details>
-<p>&nbsp;</p>
-<details>
-  <summary>💻 Workspace</summary>
-    <img align=left src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img align=left src="https://img.shields.io/badge/CPU-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-    <img align=left src="https://img.shields.io/badge/GPU-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-    <img align=left src="https://img.shields.io/badge/RAM-32GB-ff1aff?style=for-the-badge&logo=corsair&logoColor=white" />
-    <img align=left src="https://img.shields.io/badge/SSD-2TB-1a75ff?style=for-the-badge&logo=samsung&logoColor=white" />
-<!--     <img align=left src="https://img.shields.io/badge/Screen-24''-00cc66?style=for-the-badge&logo=samsung&logoColor=white" /> -->
-</details>
-<p>&nbsp;</p>
-<details>
-  <summary>:zap: Github Stats</summary>
-    <img float=left width="65%" src="https://github-readme-stats.vercel.app/api?username=Orkuml&show_icons=true&theme=midnight-purple&border=none" />
-    <img float=left width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orkuml&theme=midnight-purple&hide=hack&langs_count=10" />
-<!-- ![Git Stats](https://github-readme-stats.vercel.app/api?username=Orkuml&show_icons=true&theme=midnight-purple) ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Orkuml&theme=midnight-purple&hide=hack&langs_count=10) -->
-</details>
-<p>&nbsp;</p>
-<details>
-  <summary>🚀 Languages and Tools</summary>
-    <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</details>
+---
 
-<p>&nbsp;</p>
+## 🎯 What I do best
 
-***"Man boasts of having imitated the flight of birds with a technical complication that they do not need."***
-> Carlos Drummond de Andrade
+- Complex dashboards & data visualization (analytics, real-time, data-heavy UI)
+- Scalable front-end architecture
+- UX refinement & accessibility (a11y)
+- Clean, maintainable, and performance-oriented code
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### 🎨 Styling & UI
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 📊 Data Visualization
+![Highcharts](https://img.shields.io/badge/Highcharts-058DC7?style=for-the-badge&logo=highcharts&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![AntV](https://img.shields.io/badge/AntV-722ED1?style=for-the-badge)
+
+### 🔄 State & Data
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![Context API](https://img.shields.io/badge/Context_API-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+### 🛠️ Tools & Workflow
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+### 📐 Methodologies & Architecture
+- Feature-Based Architecture
+- Vertical Slices
+- Component-Driven Development
+- Scrum
+- Kanban
+
+---
+
+## 🏢 Experience
+
+Worked on large-scale projects for global tech brands such as **LG, Acer, Samsung, and others**.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RanniereFarias&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<!-- github-activity:start -->
+- Total contributions this year: **1879**
+- Current streak: **0 days**
+- Longest streak: **7 days**
+- Most active day of the week: **Tuesday**
+- Average contributions per week: **36**
+<!-- github-activity:end -->
+
+## 📈 Contribution Graph
+
+[![Ranniere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanniereFarias&theme=tokyo-night&hide_border=true)](https://github.com/RanniereFarias)
+
+---
+
+## 🎯 About Me
+
+- Building complex dashboards is my playground  
+- Passionate about refined UX and accessibility  
+- Focused on clean, scalable, and maintainable front-end architecture  
+
+Outside code:
+- 🎸 Rock & Metal  
+- 🎮 PC Gaming  
+- 🎬 Movies, series, anime, and nerd culture  
+- ⚽ Soccer  
+- 🍺 Beer  
+
+---
+
+## 🌍 Languages
+- Portuguese — Native  
+- English — Professional working proficiency  
+
+---
+
+> *"Good UI is invisible. Great UI feels natural."*
+
+`ØrkümL`
