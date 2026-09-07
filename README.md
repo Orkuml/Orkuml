@@ -99,7 +99,7 @@ Worked on large-scale projects for global tech brands such as **LG, Acer, Samsun
 
 ## 📈 Contribution Graph
 
-[![Ranniere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rannierecarneiro-fiteclabs&theme=tokyo-night&hide_border=true)](https://github.com/rannierecarneiro-fiteclabs)
+[![Ranniere's github activity graph](https://activity-graph-one.vercel.app/graph?username=rannierecarneiro-fiteclabs&theme=tokyo-night&hide_border=true)](https://github.com/rannierecarneiro-fiteclabs)
 
 ---
 
