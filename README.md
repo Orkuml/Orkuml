@@ -99,7 +99,7 @@ Worked on large-scale projects for global tech brands such as **LG, Acer, Samsun
 
 ## 📈 Contribution Graph
 
-[![Ranniere's github activity graph](https://activity-graph-one.vercel.app/graph?username=Orkuml&theme=tokyo-night&hide_border=true)](https://github.com/Orkuml)
+![Activity graph](./activity-graph.svg)
 
 ---
 
